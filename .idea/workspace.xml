@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae39d41c-942c-4c92-8b24-507bdc7b06ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prsr.php" afterPath="$PROJECT_DIR$/src/prsr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/bootstrap.php" afterPath="$PROJECT_DIR$/src/bootstrap.php" />
     </list>
     <ignored path="avtprsr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prsr.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="prsr.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/prsr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.042796005">
+            <state vertical-scroll-proportion="-1.25">
               <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
@@ -91,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.042796005">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -112,12 +112,12 @@
         <option value="$PROJECT_DIR$/src/application.php" />
         <option value="$PROJECT_DIR$/src/avtprsr.php" />
         <option value="$PROJECT_DIR$/src/Component/Parser.php" />
-        <option value="$PROJECT_DIR$/src/bootstrap.php" />
         <option value="$PROJECT_DIR$/src/Component/Command/Parse.php" />
         <option value="$PROJECT_DIR$/src/Component/Command/Avito.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/Component/Parser/Avito.php" />
         <option value="$PROJECT_DIR$/src/prsr.php" />
+        <option value="$PROJECT_DIR$/src/bootstrap.php" />
       </list>
     </option>
   </component>
@@ -379,14 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.9094827">
@@ -431,6 +423,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.042796005">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
