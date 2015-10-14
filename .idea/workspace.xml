@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae39d41c-942c-4c92-8b24-507bdc7b06ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/prsr.php" afterPath="$PROJECT_DIR$/src/prsr.php" />
     </list>
     <ignored path="avtprsr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,20 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prsr.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="prsr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/prsr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.042796005">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Avito.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Avito.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Component/Parser/Avito.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78602">
+            <state vertical-scroll-proportion="-22.958334">
               <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
               <folding />
             </state>
@@ -115,9 +115,9 @@
         <option value="$PROJECT_DIR$/src/bootstrap.php" />
         <option value="$PROJECT_DIR$/src/Component/Command/Parse.php" />
         <option value="$PROJECT_DIR$/src/Component/Command/Avito.php" />
-        <option value="$PROJECT_DIR$/src/prsr.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/Component/Parser/Avito.php" />
+        <option value="$PROJECT_DIR$/src/prsr.php" />
       </list>
     </option>
   </component>
@@ -406,14 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prsr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/curl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.041667">
@@ -432,8 +424,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Component/Parser/Avito.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78602">
+        <state vertical-scroll-proportion="-22.958334">
           <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prsr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042796005">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
