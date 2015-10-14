@@ -1,0 +1,19 @@
+{
+  "name": "dd_idd/avtprsr",
+  "description": "none",
+  "minimum-stability": "alpha",
+  "license": "free",
+  "authors": [
+    {
+      "name": "idolgiy",
+      "email": "i.d.dolg@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "v2.7.5",
+    "curl/curl": "1.2.1",
+    "whatsapp/chat-api": "2.5.3",
+    "swiftmailer/swiftmailer": "4.1.7",
+    "electrolinux/phpquery": "0.9.6"
+  }
+}
