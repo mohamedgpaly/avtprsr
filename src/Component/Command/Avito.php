@@ -17,6 +17,7 @@ class Avito extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-
+        $parser = new \Prsr\Component\Parser\Avito;
+        $parser->parse();
     }
 }
